@@ -1,0 +1,17 @@
+{
+  "domain": "general",
+  "products": [],
+  "policies": [],
+  "risk_triggers": [],
+  "output_options": {
+    "summary": true,
+    "language": true,
+    "sentiment": true,
+    "intents": true,
+    "topics_entities": true,
+    "compliance": true,
+    "outcome": true,
+    "risk_score": true,
+    "debug": false
+  }
+}
