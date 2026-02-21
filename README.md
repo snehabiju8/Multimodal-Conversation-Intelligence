@@ -55,7 +55,7 @@ Deterministic Risk Engine
         │
         ▼
 Final Structured JSON Output
-
+```
 
 ---
 
@@ -75,8 +75,7 @@ Final Structured JSON Output
 ├── requirements.txt
 ├── .env
 └── README.md
-
-
+```
 ---
 
 # 🔍 Component Breakdown
